@@ -1,5 +1,3 @@
-# Aicte_Steganography_tool
-
 # Steganography Tool with Encryption
 
 ## Overview
