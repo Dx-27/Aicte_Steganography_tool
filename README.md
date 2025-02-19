@@ -84,7 +84,3 @@ python steganography_tool.py
 ## Contributing
 
 Contributions are welcome! If you'd like to contribute, feel free to fork the repository and submit a pull request. Please ensure that any changes made adhere to the project's coding style and include appropriate tests.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
